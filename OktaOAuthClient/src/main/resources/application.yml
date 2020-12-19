@@ -1,0 +1,10 @@
+server:
+  port: 8080
+okta:
+  oauth2:
+    issuer: https://dev-1660738.okta.com/oauth2/default
+    client-id: 0oa2r59hqQ9KQdK5f5d6
+    client-secret: E0SMg3_Sr-KNaWr65iQy_Q_Xr9dDhDif1la8ycY1
+spring:
+  thymeleaf:
+    cache: false
